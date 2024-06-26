@@ -164,4 +164,3 @@ dependencies:
   - zeromq=4.3.5=hd77b12b_0
   - zlib=1.2.13=h8cc25b3_1
   - zstd=1.5.5=hd43e919_2
-prefix: C:\Users\edsilv\AppData\Local\anaconda3\envs\hab
